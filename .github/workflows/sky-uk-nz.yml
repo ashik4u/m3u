@@ -25,7 +25,7 @@ jobs:
 
       - name: Run generator
         run: |
-          python generate_final_m3u.py --input sky-uk-nz.m3u --output sky-uk-nz.resolved.m3u --skip-final-check
+          python generate_final_m3u.py --input sky-uk-nz-raw.m3u --output sky-uk-nz.m3u --skip-final-check
 
       - name: Commit resolved file (if changed)
         run: |
