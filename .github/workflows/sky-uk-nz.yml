@@ -27,14 +27,31 @@ jobs:
         run: |
           python generate_final_m3u.py --input sky-uk-nz-raw.m3u --output sky-uk-nz.m3u --skip-final-check
 
+      - name: Show generated file (debug)
+        run: |
+          echo "Workspace files:"
+          ls -la
+          echo
+          echo "Resolved file info (if present):"
+          if [ -f sky-uk-nz.resolved.m3u ]; then
+            wc -c sky-uk-nz.resolved.m3u || true
+            head -n 30 sky-uk-nz.resolved.m3u || true
+          else
+            echo "sky-uk-nz.resolved.m3u not found"
+          fi
+
       - name: Commit resolved file (if changed)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add sky-uk-nz.resolved.m3u
-          if ! git diff --staged --quiet; then
-            git commit -m "chore: update resolved m3u (scheduled)"
-            git push
+          if [ -f sky-uk-nz.resolved.m3u ]; then
+            git add sky-uk-nz.resolved.m3u
+            if ! git diff --staged --quiet; then
+              git commit -m "chore: update resolved m3u (scheduled)"
+              git push
+            else
+              echo "No changes to commit"
+            fi
           else
-            echo "No changes to commit"
+            echo "sky-uk-nz.resolved.m3u not generated — skipping commit"
           fi
