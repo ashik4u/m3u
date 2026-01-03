@@ -1,46 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="NZ Sports",SKY Sport 1 NZ
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.ibb.co/TqkBV40v/SSNZ1.png" group-title="NZ Sporm3u8",SKY Sport 1 NZ
 http://amazing-prada.xyz:8080/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/204939.m3u8
-#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-name="SKY Sport 2 NZ" tvg-logo="https://i.ibb.co/Gvn46BMS/SSNZ2.png" group-title="NZ Sports",SKY Sport 2 NZ
-http://amazing-prada.xyz:8080/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/204940.ts
-#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-name="SKY Sport 4 NZ" tvg-logo="https://i.ibb.co/qY3cr3zG/SSNZ4.png" group-title="NZ Sports",SKY Sport 4 NZ
-http://amazing-prada.xyz:8080/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/204942.ts
-#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-name="SKY Sport 5 NZ" tvg-logo="https://i.ibb.co/WNhhmNN3/SSNZ5.png" group-title="NZ Sports",SKY Sport 5 NZ
-http://amazing-prada.xyz:8080/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/204943.ts
-#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-name="SKY Sport 6 NZ" tvg-logo="https://i.ibb.co/4Z68jKjy/SSNZ6.png" group-title="NZ Sports",SKY Sport 6 NZ
-http://amazing-prada.xyz:8080/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/204944.ts
-#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 7 NZ" tvg-logo="https://i.ibb.co/d4hjNjmz/SSNZ7.png" group-title="NZ Sports",SKY Sport 7 NZ
-http://amazing-prada.xyz:8080/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/204945.ts
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-name="SKY Sport 2 NZ" tvg-logo="https://i.ibb.co/Gvn46BMS/SSNZ2.png" group-title="NZ Sporm3u8",SKY Sport 2 NZ
+http://amazing-prada.xyz:8080/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/204940.m3u8
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-name="SKY Sport 4 NZ" tvg-logo="https://i.ibb.co/qY3cr3zG/SSNZ4.png" group-title="NZ Sporm3u8",SKY Sport 4 NZ
+http://amazing-prada.xyz:8080/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/204942.m3u8
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-name="SKY Sport 5 NZ" tvg-logo="https://i.ibb.co/WNhhmNN3/SSNZ5.png" group-title="NZ Sporm3u8",SKY Sport 5 NZ
+http://amazing-prada.xyz:8080/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/204943.m3u8
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-name="SKY Sport 6 NZ" tvg-logo="https://i.ibb.co/4Z68jKjy/SSNZ6.png" group-title="NZ Sporm3u8",SKY Sport 6 NZ
+http://amazing-prada.xyz:8080/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/204944.m3u8
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 7 NZ" tvg-logo="https://i.ibb.co/d4hjNjmz/SSNZ7.png" group-title="NZ Sporm3u8",SKY Sport 7 NZ
+http://amazing-prada.xyz:8080/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/204945.m3u8
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Sky_Sport_PL_NZ.webp" group-title="EPL",Sky Sport PL NZ
-http://chunkymunky.site/live/jsYSS7uA/fZ7Fgq8/236298.ts
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="UK Sports",Sky Sports Action FHD
+http://chunkymunky.site/live/jsYSS7uA/fZ7Fgq8/236298.m3u8
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sporm3u8 Action FHD" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="UK Sporm3u8",Sky Sporm3u8 Action FHD
 http://103.161.35.76/5648251/index.m3u8?token=MzdPd3RKZkoyTlNiZTVyZGdOK0Z5NXFvMXNhdW50MnYzb3ZHbUtiVG1YekRxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJPQnJZMmVwNitpcUE9PQ==
-#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sports Cricket FHD" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="UK Sports",Sky Sports Cricket FHD
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sporm3u8 Cricket FHD" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="UK Sporm3u8",Sky Sporm3u8 Cricket FHD
 http://109.61.81.147:1935/cdn7/307/video.m3u8?token=351f1c9fbccd4d0ef689621d32660c10
-#EXTINF:-1 tvg-name="Sky sports cricket" group-title="Cricket",Sky sports cricket
+#EXTINF:-1 tvg-name="Sky sporm3u8 cricket" group-title="Cricket",Sky sporm3u8 cricket
 http://178.33.239.54:8080/503/index.m3u8
-#EXTINF:-1 tvg-name="Sky sports cricket" group-title="Cricket",Sky sports cricket
+#EXTINF:-1 tvg-name="Sky sporm3u8 cricket" group-title="Cricket",Sky sporm3u8 cricket
 http://cdn.am02.sh365.org:81/tech/default.mp4/index.m3u8
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="UK Sports",Sky Sports F1 FHD
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sporm3u8 F1 FHD" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="UK Sporm3u8",Sky Sporm3u8 F1 FHD
 http://109.61.81.147:1935/cdn7/3302/video.m3u8?token=9350f938f5b361b80ed580ff5c7c7cf1
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="UK Sports",Sky Sports Football FHD
-http://162.19.96.146:8099/UK%20%3A%20SKY%20SPORTS%20FOOTBALL%20HD?u=yenisolkerors:p=Pic1SeNi2YaqalaRseM
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="UK Sports",Sky Sports Golf FHD
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sporm3u8 Football FHD" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="UK Sporm3u8",Sky Sporm3u8 Football FHD
+http://162.19.96.146:8099/UK%20%3A%20SKY%20SPORm3u8%20FOOTBALL%20HD?u=yenisolkerors:p=Pic1SeNi2YaqalaRseM
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sporm3u8 Golf FHD" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="UK Sporm3u8",Sky Sporm3u8 Golf FHD
 http://103.161.35.76/2793116/index.m3u8?token=cTdHeWpNZkpyS25LaEpxdnN0Nkx5c2pXcE1kOG50eUNzSXlXeWFtcm1ZSERxMytzZ1phV3FxQ1pmSk93aGRlRGxaMm1zNStDbnJPUXFZMldrNitrbmc9PQ==
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK Sports",Sky Sports Main Event FHD
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sporm3u8 Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK Sporm3u8",Sky Sporm3u8 Main Event FHD
 http://109.61.81.147:1935/cdn7/3281/video.m3u8?token=c159989a780b922516f0f9e910313cdd
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="UK Sports",Sky Sports Mix FHD
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sporm3u8 Mix FHD" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="UK Sporm3u8",Sky Sporm3u8 Mix FHD
 http://109.61.81.147:1935/cdn7/3288/video.m3u8?token=4bc1a2db6a29fb945feb1acd83ced479
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UK Sports",Sky Sports News FHD
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sporm3u8 F1 FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UK Sporm3u8",Sky Sporm3u8 News FHD
 http://103.161.35.76/5555557/index.m3u8?token=cjRIYWladkgyS21XcnB5cXNiQzRuWnpibzVwL3lkeUFzTFdleWEycW5xekRxMytzZ1phV3FxQ1pmSk93aGRlRGxaMm1zNStDbnJPUXFZMldrNitrbmc9PQ==
-#EXTINF:-1 tvg-name="SKY SPORTS PREMIER LEAGUE" group-title="Unknown",SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-name="SKY SPORm3u8 PREMIER LEAGUE" group-title="Unknown",SKY SPORm3u8 PREMIER LEAGUE
 http://178.33.239.54:8080/506/index.m3u8
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="UK Sports",Sky Sports Premier League FHD
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sporm3u8 Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sporm3u8-pl.png" group-title="UK Sporm3u8",Sky Sporm3u8 Premier League FHD
 http://103.161.35.76/4957528/index.m3u8?token=M29DcGhaYWJycUxJc1ozYWZ0cUtuWm1scFp5RW02K3hzb1djeWE3WW1iRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJPQnJZMmVwNitpcUE9PQ==
-#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="UK Sports",Sky Sports Racing FHD
-http://midnigth.ddns.net:2017/live/stUKmeu/0dIntvEYaV/356.ts
-#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis FHD" tvg-logo="https://i.ibb.co/kVtPg1F5/Sky-Sports-Tennis.png" group-title="UK Sports",Sky Sports Tennis FHD
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sporm3u8 Racing FHD" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="UK Sporm3u8",Sky Sporm3u8 Racing FHD
+http://midnigth.ddns.net:2017/live/stUKmeu/0dIntvEYaV/356.m3u8
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sporm3u8 Tennis FHD" tvg-logo="https://i.ibb.co/kVtPg1F5/Sky-Sporm3u8-Tennis.png" group-title="UK Sporm3u8",Sky Sporm3u8 Tennis FHD
 http://109.61.81.147:1935/cdn7/582/video.m3u8?token=cedef9458a4be3f67de0311711c28b02
-#EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sports+ FHD" tvg-logo="https://i.ibb.co/yBqH98CM/Sky-Sports-Plus.webp" group-title="UK Sports",Sky Sports+ FHD
-http://109.61.81.147:1935/cdn7/713/mpegts?token=69a1afa78a6aee6503fbbe1a2ba3583f
+#EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sporm3u8+ FHD" tvg-logo="https://i.ibb.co/yBqH98CM/Sky-Sporm3u8-Plus.webp" group-title="UK Sporm3u8",Sky Sporm3u8+ FHD
+http://109.61.81.147:1935/cdn7/713/mpegm3u8?token=69a1afa78a6aee6503fbbe1a2ba3583f
+
 
