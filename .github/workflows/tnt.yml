@@ -33,19 +33,19 @@ jobs:
           ls -la
           echo
           echo "Resolved file info (if present):"
-          if [ -f sky-uk-nz.resolved.m3u ]; then
-            wc -c sky-uk-nz.resolved.m3u || true
-            head -n 30 sky-uk-nz.resolved.m3u || true
+          if [ -f tnt.resolved.m3u ]; then
+            wc -c tnt.resolved.m3u || true
+            head -n 30 tnt.resolved.m3u || true
           else
-            echo "sky-uk-nz.resolved.m3u not found"
+            echo "tnt.resolved.m3u not found"
           fi
 
       - name: Commit resolved file (if changed)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [ -f sky-uk-nz.resolved.m3u ]; then
-            git add sky-uk-nz.resolved.m3u
+          if [ -f tnt.resolved.m3u ]; then
+            git add tnt.resolved.m3u
             if ! git diff --staged --quiet; then
               git commit -m "chore: update resolved m3u (scheduled)"
               git push
@@ -53,5 +53,5 @@ jobs:
               echo "No changes to commit"
             fi
           else
-            echo "sky-uk-nz.resolved.m3u not generated — skipping commit"
+            echo "tnt.resolved.m3u not generated — skipping commit"
           fi
